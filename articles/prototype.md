@@ -37,7 +37,7 @@ At this time, a teensy 3.5 was programmed with some digital switch inputs, and a
 # Left, right and aux consoles
 
 # A simple rig
-
+<a href="/viperpit/images/early_rig.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
 # Throttle solution
 
 # New stick
