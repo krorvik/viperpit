@@ -50,8 +50,6 @@ Next, the main consoles were built. For the left console, a wooden frame was bui
 <a href="/viperpit/images/early_throttle.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_throttle.jpg" alt="Early throttle" /></a
 I decided to hack up the X55 throttle, and used the mechanism itself together with a lengthened handle to create something a bit more realistic. Still a stretch, but a bit easier on the hands ;)
 
-
-
 # New stick
 
 Somewhere in this process, I also switched out the stick with a Thrustmaster Warthog stick. This is a good step up from the X55. A smaller base, and better stick. It does not have the correct CMDS toggle though.
