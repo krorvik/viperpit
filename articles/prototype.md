@@ -43,10 +43,6 @@ Next, the main consoles were built. For the left console, a wooden frame was bui
 <a href="/viperpit/images/early_console_painted.jpg" border="0"><img width="320" src="/viperpit/images/early_console_painted.jpg" alt="Consoles" /></a>
 <a href="/viperpit/images/early_laux.jpg" border="0"><img width="320" src="/viperpit/images/early_laux.jpg" alt="Consoles" /></a>
 <a href="/viperpit/images/early_right_console.jpg" border="0"><img width="320" src="/viperpit/images/early_right_console.jpg" alt="Consoles" /></a>
-# A simple rig
-<a href="/viperpit/images/early_rig.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
-
-The early rig was very simple, wooden frames that the consoles were mounted onto. 
 
 # Throttle solution
 <a href="/viperpit/images/early_throttle.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_throttle.jpg" alt="Early throttle" /></a>
@@ -56,6 +52,10 @@ I decided to hack up the X55 throttle, and used the mechanism itself together wi
 # New stick
 
 Somewhere in this process, I also switched out the stick with a Thrustmaster Warthog stick. This is a good step up from the X55. A smaller base, and better stick. It does not have the correct CMDS toggle though.
+
+# A simple rig
+<a href="/viperpit/images/early_rig.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
+The early rig was very simple, wooden frames that the consoles were mounted onto.
 
 # Final prototype rig
 <a href="/viperpit/images/early_use2.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_use2.jpg" alt="Final prototype setup" /></a>
