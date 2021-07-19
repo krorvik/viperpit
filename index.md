@@ -1,6 +1,9 @@
 ---
 layout: post
 ---
+
+<a href="/viperpit/images/viper_phase.jpg" border="0"><img align="right" width="320" height="120" src="/viperpit/images/viper_phase.jpg" alt="DCS rendition of RNoAF viper" /></a>
+
 This is the build log, or full description - or whatever you like to call it, of my Viper Simpit built for DCS World.
 
 Use the pages below to navigate.
