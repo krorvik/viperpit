@@ -53,11 +53,12 @@ I decided to hack up the X55 throttle, and used the mechanism itself together wi
 
 Somewhere in this process, I also switched out the stick with a Thrustmaster Warthog stick. This is a good step up from the X55. A smaller base, and better stick. It does not have the correct CMDS toggle though.
 
-# A simple rig
-<a href="/viperpit/images/early_rig.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
+
 The early rig was very simple, wooden frames that the consoles were mounted onto.
 
 # Final prototype rig
-<a href="/viperpit/images/early_use2.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_use2.jpg" alt="Final prototype setup" /></a>
 
-This is the rig as it was just before I tore it down. Seat rolls in and adjusts down, and flying commences!
+<a href="/viperpit/images/early_rig.jpg" border="0"><img width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
+<a href="/viperpit/images/early_use2.jpg" border="0"><img width="320" src="/viperpit/images/early_use2.jpg" alt="Final prototype setup" /></a>
+
+The early rig was very simple, wooden frames that the consoles were mounted onto. The idea was to lower the chair and roll it into the pit, so to speak. Then fly!
