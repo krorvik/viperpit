@@ -46,6 +46,8 @@ Next, the main consoles were built. For the left console, a wooden frame was bui
 # A simple rig
 <a href="/viperpit/images/early_rig.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
 
+The early rig was very simple, wooden frames that the consoles were mounted onto. 
+
 # Throttle solution
 <a href="/viperpit/images/early_throttle.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_throttle.jpg" alt="Early throttle" /></a>
 
