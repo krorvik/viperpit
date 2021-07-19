@@ -39,3 +39,6 @@ At this time, a teensy 3.5 was programmed with some digital switch inputs, and a
 # A simple rig
 
 # Throttle solution
+
+# Final prototype rig
+<a href="/viperpit/images/early_use2.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_use2.jpg" alt="Final prototype setup" /></a>
