@@ -36,8 +36,13 @@ At this time, a teensy 3.5 was programmed with some digital switch inputs, and a
 
 # Left, right and aux consoles
 
+Next, the main consoles were built. For the left console, a wooden frame was built, upon which switches etc was mounted, and then simple 4mm acrylic sheets painted black, and labeled with a labelmaker, was placed on top to simulate the panels. For the left aux console and the right consoles, acrylic sheet was chosen for both layers.The images attached show these:
+
+<a href="/viperpit/images/early_console.jpg" border="0"><img width="320" src="/viperpit/images/early_console.jpg" alt="Consoles" /></a>
+
 # A simple rig
 <a href="/viperpit/images/early_rig.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
+
 # Throttle solution
 
 # New stick
