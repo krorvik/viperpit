@@ -10,9 +10,9 @@ This is the build log, or full description - or whatever you like to call it, of
 Use the pages below to navigate.
 
 
-* [Introduction](./intro.html)
-* [Modern simulators](./back.html)
-* [Controllers](./controllers.md)
-* [Philosophy](./methodology.md)
-* [Pit construction](./pitframe.md)
-* [Panel construction](./panels.md)
+* [Introduction](./articles/intro.html)
+* [Modern simulators](./articles/back.html)
+* [Controllers](./articles/controllers.md)
+* [Philosophy](./articles/methodology.md)
+* [Pit construction](./articles/pitframe.md)
+* [Panel construction](./articles/panels.md)
