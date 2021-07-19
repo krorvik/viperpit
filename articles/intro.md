@@ -3,6 +3,8 @@ layout: post
 title: Introduction
 ---
 
+<a href="/viperpit/images/starfighter.jpg" border="0"><img align="right" width="320" src="/viperpit/images/starfighter.jpg" alt="DCS rendition of RNoAF viper" /></a>
+
 As a kid, I watched one of our old [CF-104 starfighters](http://www.starfighter.no/) pass by - with another, newer, aircraft following. Some 1000ft or maybe a bit more above the fjord, they both initiated a 180 degree turn. The newer of the two had turned around long before the starfighter was even at 90 degrees.
 
 The new aircraft was one of the Royal Norwegian Air Force F-16As, likely a block 5 or 10. Growing up less than a km away from [Vigra Airport](https://avinor.no/en/airport/alesund-airport/) AES, or ENAL, my interest for winged machines was not a strange coincident. Runway 25 started just a few meters from the road where i cycled to school, and Braathens Fokker 27 and 28s, Boeing 737 200s, and many others were watched closely by happy kid eyes at every opportunity.
