@@ -25,3 +25,18 @@ At this time, I was only gunning for input controllers, and the flexible Teensy 
 One of my first attempt at getting more inputs out of the teensy was matrix switching. This is what is done in keyboards to support many switches with less digital inputs.
 
 Unfortunately, there is no good way around the ghosting problems posed by this setup, so it was quickly thrown out.
+
+# Adding inputs to the center console
+
+<a href="/viperpit/images/early_center.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_center.jpg" alt="Second attemtp center console" /></a>
+
+The first attempt at the center console did not have enough space for both MFDS, and some sort of ICP controller, as well as fuel switches and instrument dials. A second variant was quickly hacked together, this time with room for more inputs.
+
+
+# Left, right and aux consoles
+
+
+
+# A simple rig
+
+# Throttle solution
