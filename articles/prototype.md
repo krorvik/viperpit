@@ -1,4 +1,4 @@
-# First steps - the desktop center consoles
+# First steps - the desktop center console
 
 <a href="/viperpit/images/simple_proto.jpg" border="0"><img align="right" width="320" src="/viperpit/images/simple_proto.jpg" alt="First center console" /></a>
 
