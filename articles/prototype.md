@@ -58,4 +58,4 @@ Somewhere in this process, I also switched out the stick with a Thrustmaster War
 <a href="/viperpit/images/early_rig.jpg" border="0"><img width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
 <a href="/viperpit/images/early_use2.jpg" border="0"><img width="320" src="/viperpit/images/early_use2.jpg" alt="Final prototype setup" /></a>
 
-The early rig was very simple, wooden frames that the consoles were mounted onto. The idea was to lower the chair and roll it into the pit, so to speak. Then fly!
+The early rig was very simple, wooden frames that the consoles were mounted onto. The idea was to lower the chair and roll it into the pit, so to speak. Then fly! 
