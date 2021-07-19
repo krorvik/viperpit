@@ -32,10 +32,9 @@ Unfortunately, there is no good way around the ghosting problems posed by this s
 
 The first attempt at the center console did not have enough space for both MFDS, and some sort of ICP controller, as well as fuel switches and instrument dials. A second variant was quickly hacked together, this time with room for more inputs.
 
+At this time, a teensy 3.5 was programmed with some digital switch inputs, and a few encoders and analog inputs (potentiometers) for the necessary switches. In addition, a small USB keyboard was hooked up as an ICP. This actually worked quite well!
 
 # Left, right and aux consoles
-
-
 
 # A simple rig
 
