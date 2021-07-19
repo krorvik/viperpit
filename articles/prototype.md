@@ -40,5 +40,11 @@ At this time, a teensy 3.5 was programmed with some digital switch inputs, and a
 
 # Throttle solution
 
+# New stick
+
+Somewhere in this process, I also switched out the stick with a Thrustmaster Warthog stick. This is a good step up from the X55. A smaller base, and better stick. It does not have the correct CMDS toggle though.
+
 # Final prototype rig
 <a href="/viperpit/images/early_use2.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_use2.jpg" alt="Final prototype setup" /></a>
+
+This is the rig as it was just before I tore it down. Seat rolls in and adjusts down, and flying commences!
