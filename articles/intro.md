@@ -7,7 +7,7 @@ title: Introduction
 
 As a kid, I watched one of our old [CF-104 starfighters](http://www.starfighter.no/) pass by - with another, newer, aircraft following. Some 1000ft or maybe a bit more above the fjord, they both initiated a 180 degree turn. The newer of the two had turned around long before the starfighter was even at 90 degrees.
 
-The new aircraft was one of the Royal Norwegian Air Force F-16As, likely a block 5 or 10. Growing up less than a km away from [Vigra Airport](https://avinor.no/en/airport/alesund-airport/) AES, or ENAL, my interest for winged machines was not a strange coincident. Runway 25 started just a few meters from the road where i cycled to school, and Braathens Fokker 27 and 28s, Boeing 737 200s, and many others were watched closely by happy kid eyes at every opportunity.
+The new aircraft was one of the Royal Norwegian Air Force F-16As, likely a block 5 or 10. Growing up less than a km away from [Vigra Airport](https://avinor.no/en/airport/alesund-airport/) AES, or ENAL, my interest for winged machines was not a strange coincidence. Runway 25 started just a few meters from the road where i cycled to school, and Braathens Fokker 27 and 28s, Boeing 737 200s, and many others were watched closely by happy kid eyes at every opportunity.
 
 Somewhere around 6th grade, possibly a bit earlier, some 6 or so vipers were forward deployed to Vigra about a week, and we could watch them closely as they danced around the sky.
 
@@ -32,3 +32,7 @@ Falcon BMS remained the choice of F-16 simpit builders for a long time (and migh
 In october 2019, an [F-16C block 50 module for DCS](https://www.digitalcombatsimulator.com/en/products/planes/viper/) was released in early access. The ease of DCS install, combined with modern high quality graphics, suddenly made simulation very interesting indeed. With recent releases (2.7), DCS has become even more impressive. The module is still in early access, but is progressing nicely and becoming more complete. It has been partially overshadowed by it's F/A-18C module counterpart, but this seems to be resolving nicely now.
 
 The hole in my simulated viper world was finally plugged.
+
+Before the F-16 module was released, I started my DCS adventure with simple hardware: A Saitek X55 stick and throttle, and shortly after, the rather simple Thrustmaster T.Rudder pedals.
+
+The X-55 stick is actually quite good, and matches the F-16 stick closely for button positions. It still moves of course, as it is meant for other planes too. The throttle is not as good however, and DCS does not support the multi-mode button setup. Still, a good setup for getting back into simulations.
