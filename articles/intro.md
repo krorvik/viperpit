@@ -3,6 +3,7 @@ layout: post
 title: Introduction
 ---
 
+<a href="/viperpit/images/starfighter.jpg" border="0"><img align="right" width="320" src="/viperpit/images/starfighter.jpg" alt="DCS rendition of RNoAF viper" /></a>
 
 As a kid, I watched one of our old [CF-104 starfighters](http://www.starfighter.no/) pass by - with another, newer, aircraft following. Some 1000ft or maybe a bit more above the fjord, they both initiated a 180 degree turn. The newer of the two had turned around long before the starfighter was even at 90 degrees.
 
