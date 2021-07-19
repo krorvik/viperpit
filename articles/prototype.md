@@ -47,6 +47,10 @@ Next, the main consoles were built. For the left console, a wooden frame was bui
 <a href="/viperpit/images/early_rig.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
 
 # Throttle solution
+<a href="/viperpit/images/early_throttle.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_throttle.jpg" alt="Early throttle" /></a
+I decided to hack up the X55 throttle, and used the mechanism itself together with a lengthened handle to create something a bit more realistic. Still a stretch, but a bit easier on the hands ;)
+
+
 
 # New stick
 
