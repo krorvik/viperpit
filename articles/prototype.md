@@ -44,10 +44,14 @@ Next, the main consoles were built. For the left console, a wooden frame was bui
 <a href="/viperpit/images/early_laux.jpg" border="0"><img width="320" src="/viperpit/images/early_laux.jpg" alt="Consoles" /></a>
 <a href="/viperpit/images/early_right_console.jpg" border="0"><img width="320" src="/viperpit/images/early_right_console.jpg" alt="Consoles" /></a>
 
-# Throttle solution
+# Throttle solution no 1
 <a href="/viperpit/images/early_throttle.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_throttle.jpg" alt="Early throttle" /></a>
 
 I decided to hack up the X55 throttle, and used the mechanism itself together with a lengthened handle to create something a bit more realistic. Still a stretch, but a bit easier on the hands ;)
+
+# Throttle solution no 2
+
+I spent some time looking for a good way to replicate the throttle handle. I ended up getting a 3D-printed shell of it from Shapeways. Filled with resin, and then with hardware added - it made a good first attempt at a real throttle grip. 
 
 # New stick
 
@@ -58,4 +62,4 @@ Somewhere in this process, I also switched out the stick with a Thrustmaster War
 <a href="/viperpit/images/early_rig.jpg" border="0"><img width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
 <a href="/viperpit/images/early_use2.jpg" border="0"><img width="320" src="/viperpit/images/early_use2.jpg" alt="Final prototype setup" /></a>
 
-The early rig was very simple, wooden frames that the consoles were mounted onto. The idea was to lower the chair and roll it into the pit, so to speak. Then fly! 
+The early rig was very simple, wooden frames that the consoles were mounted onto. The idea was to lower the chair and roll it into the pit, so to speak. Then fly!
