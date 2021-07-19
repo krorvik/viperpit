@@ -53,9 +53,6 @@ I decided to hack up the X55 throttle, and used the mechanism itself together wi
 
 Somewhere in this process, I also switched out the stick with a Thrustmaster Warthog stick. This is a good step up from the X55. A smaller base, and better stick. It does not have the correct CMDS toggle though.
 
-
-The early rig was very simple, wooden frames that the consoles were mounted onto.
-
 # Final prototype rig
 
 <a href="/viperpit/images/early_rig.jpg" border="0"><img width="320" src="/viperpit/images/early_rig.jpg" alt="Early prototype rig" /></a>
