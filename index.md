@@ -3,8 +3,6 @@ layout: post
 title: DCS World F-16C simpit
 ---
 
-# about
-
 This is the build log, or full description - or whatever you like to call it, of my Viper Simpit built for DCS World.
 
 Use the pages below to navigate.
