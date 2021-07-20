@@ -37,8 +37,21 @@ You need to [learn how to program the teensy](https://www.pjrc.com/teensy/tutori
 
 # Setup
 
-We are using the teensy as a USB joystick, so we have to program each device with a separate ID. I have included a modified usb_desc.h file here, that needs to be placed in the original location on your hard drive. Modify this file as noted for each teensy device before compiling the sketch.
+We are using the teensy as a USB HID device, so we have to program each device with a separate PRODUCT_ID (or VENDOR_ID, but prefer PRODUCT_ID). I have included a modified usb_desc.h file here, that needs to be placed in the original location on your hard drive. Modify this file as noted for each teensy device before compiling the sketch. There are commented sections for each teensy I've used:
+
+* L_aft (3.5)
+* L_fwd (3.5)
+* Centr (3.5)
+* Thrtl (3.2)
+* R_fwd (3.2)
+* R_aft (3.2)
+
+You may only program one teensy at a time without additional tools, and I suggest keeping only one connected at a time while programming and setting up.
 
 # The sketch
 
-The basic sketch is the same for all devices.
+The basic sketch is the same for all devices. There is a a section at the top that must be modified for each device. Start by compiling and uploading the file unchanged.
+
+Then connect it as you expect it to the switches, and use a joystick testing tool to note which buttons need to have special handling (SPDTs, rotary switches). You do not need to map anything about regular SPSTs or momentary push buttons.
+
+Then modify the code, and reprogram the teensy. The changed witches should now act according to comments in the code.
