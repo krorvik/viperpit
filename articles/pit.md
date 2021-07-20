@@ -39,7 +39,6 @@ The following panel frames are used:
 * Left rear 2 - flcs, trim
 * Left rearmost - test
 
-<a href="/viperpit/images/throttle_mount.jpg" border="0"><img width="320" align="right" src="/viperpit/images/throttle_mount.jpg" alt="Panel mount frames" /></a>
 
 TODO: Make STL files available for DL
 
