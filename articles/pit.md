@@ -1,6 +1,10 @@
-<a href="/viperpit/images/in_progress_pit_frame.jpg" border="0"><img align="right" width="240" height="320" src="/viperpit/images/in_progress_pit_frame.jpg" alt="Cockpit frames in progress" /></a>
+---
+layout: post
+previous: pit
+next: seat
+---
 
-<a href="/viperpit/images/in_progress_pit1.jpg" border="0"><img align="right" width="320" height="240" src="/viperpit/images/in_progress_pit1.jpg" alt="Cockpit frames in progress" /></a>
+<a href="/viperpit/images/full_frames.jpg" border="0"><img align="right" width="320" src="/viperpit/images/full_frames.jpg" alt="Pit builds in progress" /></a>
 
 The pit itself was rebuilt, this time with a more correct overall shape (although not precise).
 
