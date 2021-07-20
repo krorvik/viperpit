@@ -18,6 +18,6 @@ The ICP and MFD installations are covered in the [pit construction page](/viperp
 # Mounting the base and stick
 <a href="/viperpit/images/stick_mount.jpg" border="0"><img align="right" width="320" src="/viperpit/images/stick_mount.jpg" alt="Stick mount" /></a>
 
-The base and stick are mounted at the front left of the right main console. A 3d-printed base extender gives it a good height. Note that the image is old, an additional extender is mounted between the printed base and the FSSB R3 in the image now, for better ergonomics.
+The base and stick are mounted at the front left of the right main console. A 3d-printed base extender gives it a good height.This base is tilted the same amount the console is, so that the FSSB base is mounted horiozontally. Note that the image is old, an additional circular extender is now mounted between the printed base and the FSSB R3 in the image now, for better ergonomics.
 
 TODO: Download STL files
