@@ -48,11 +48,13 @@ The floor is a separate part, with the pedal mount protruding in front of the ce
 
 The width of the floor corresponds to the width of the center console (instrument panel), and also matches that of the seat.
 
-<a href="/viperpit/images/frame_full_screen.jpg" border="0"><img width="320" align="right" src="/viperpit/images/frame_full_screen.jpg" alt="Side view" /></a>
+
 
 TODO: DXF download
 
 # Putting the base frames together
+
+<a href="/viperpit/images/frame_full_screen.jpg" border="0"><img width="320" align="right" src="/viperpit/images/frame_full_screen.jpg" alt="Side view" /></a>
 
 First, I attached all the left consoles and all the right consoles together, so that the inner wall is flush. I then attached the floor section to the sides so that the floorslope starts where the side consoles meets the auxiliary consoles (see top image).
 
