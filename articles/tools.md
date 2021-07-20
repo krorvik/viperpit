@@ -8,7 +8,7 @@ For any engineer, tooling matters. A lot. My Dremel, miniature circular saw and 
 
 # Laser cutting acrylics
 
-Late fall 2020, I gained access to a 40W  laser cutter with a sufficient cutting area to cut parts around 30x20cm. This is also a very good tool for engraving, and with a little bit of clever work, you can cut and etch panels from acrylic glass that look really good. More on that later.
+Late fall 2020, I gained access to a 40W CO2 laser cutter with a sufficient cutting area to cut parts around 30x20cm. This is also a very good tool for engraving, and with a little bit of clever work, you can cut and etch panels from acrylic glass that look really good. More on that later.
 
 Laser cutting is a complex subject all by itself, and comes with a fair bit of surrounding stuff (ventilation, watercooling, air assist) but with a little bit of practice, some nice panels came out. I recommend taking a look at [k40.se](https://k40.se/) for more information. If you plan on getting one, have some space available - there's more than the machine itself.
 
