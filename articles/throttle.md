@@ -19,7 +19,7 @@ But all this is fixable, as the grip itself can be detached and modified. Let's 
 
 # Teensy controller
 
-The throttle has it's own teensy, and is programmed a little differently - the throttle potentiometer only travels part of it's range, and needs to emit idle/cutoff buttons, and start it's curve after detent passage. The AB detent will be purely mechanical, so does not need programming.
+The throttle has it's own teensy 3.2, and is programmed a little differently - the throttle potentiometer only travels part of it's range, and needs to emit idle/cutoff buttons, and start it's curve after detent passage. The AB detent will be purely mechanical, so does not need programming.
 
 # Get a grip
 
@@ -49,7 +49,7 @@ TODO: Download STLs
 
 # Handle
 
-The handle is two parts, the first is the rotating center, with a center pot hole (hehe), and a protruding cylinder around that that slots into the throttle mount.
+The handle is two parts, the first is the rotating center, with a center pot hole (hehe), and a protruding cylinder around that that slots into the throttle mount. The handle extends upwards from the round lower part. 
 
 The second part is the adapter for the grip base, and attaches to the grip end, and is glued and screwed securely in place.
 
@@ -71,7 +71,7 @@ TODO: Download STLs
 
 The rail prints in two parts, front and rear, and attaches to the throttle mount on each side. The front and rear parts have couplers that make a strong attachment.
 
-The rail for the throttle has known angles of travel, and matches the actual F-16 throtte angles for detents and such. 
+The rail for the throttle has known angles of travel, and matches the actual F-16 throtte angles for detents and such.
 
 TODO: Download STLs
 TODO: Rail image
