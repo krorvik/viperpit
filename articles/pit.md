@@ -9,7 +9,7 @@ next: seat
 
 # Base frames
 
- Construction is done using 30x48mm wood cut using a precise table saw. I'd advise against manual cuts.
+ Construction is done using 23x48mm wood cut using a precise table saw. I'd advise against manual cuts.
 
  The panels do not go directly to these frames, instead the base frames are sized to fit separate panel mounting frames for each console. There are five base frames:
 
