@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Playseat
+title: Off the shelf hardware
 next: inputs
 previous: seat
 ---
