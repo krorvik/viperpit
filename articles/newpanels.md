@@ -2,7 +2,7 @@
 layout: post
 title: Starting over
 ---
-<a href="/viperpit/images/panels_ready.jpg" border="0"><img align="right" width="320" height="246" src="/viperpit/images/panels_ready.jpg" alt="Cockpit panels in progress" /></a>
+<a href="/viperpit/images/panels_diff_stages.jpg" border="0"><img align="right" width="320" height="246" src="/viperpit/images/panels_diff_stages.jpg" alt="Cockpit panels in progress" /></a>
 
 With the laser cutter at hand, work started on designing new panels. This time, they would be fully modular, and each connect to a controller via it's own dupont cable.
 
