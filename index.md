@@ -13,7 +13,7 @@ At the moment, work is still in progress, but I'm keeping this page updated ever
 * [The need for improvement](./articles/devops.html)
 * [Tools matter](./articles/tools.html)
 * [Starting over](./articles/newpanels.html)
-* [Building the pit](l/articles/pit.html)
+* [Building the pit](./articles/pit.html)
 * [Seat](./articles/seat.html)
 * [Commercial hardware](./articles/commercial.html)
 * [Teensy inputs](./articles/inputs.html)
