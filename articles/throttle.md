@@ -9,7 +9,11 @@ The throttle in the F-16 is one of the interesting design points. The throttle r
 
 This is a challenge, but clearly a job for a 3D-printer!
 
-Back in the day Thrustmaster had a design called the "F-16 TQS", that had the correct grip, but the handle and base was way off. The grip, however, was really good - so much in fact, that it is almost a 1:1 replica. The only problem is that most of them come with a really strange cursor control.
+# Thrustmaster TQS
+
+<a href="/viperpit/images/tqs.jpg" border="0"><img align="right" width="320" src="/viperpit/images/tqs.jpg" alt="Oldie but goodie" /></a>
+
+Back in the day Thrustmaster had a design called the "F-16 TQS", that had the correct grip, but the handle and base was way off. The grip, however, was really good - so much in fact, that it is almost a 1:1 replica. The only problem is that most of them come with a really strange cursor control. It was also a serial design, and did not have USB.
 
 But all this is fixable, as the grip itself can be detached and modified. Let's go.
 
