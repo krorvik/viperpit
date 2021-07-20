@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Continous improvement
+next: tools
+previous: prototype
 ---
 <a href="/viperpit/images/early_spaghetti2.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_spaghetti2.jpg" alt="Room for improvement" /></a>
 

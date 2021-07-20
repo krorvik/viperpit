@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Improving tooling
+next: newpanels
+previous: devops
 ---
 
 For any engineer, tooling matters. A lot. My Dremel, miniature circular saw and a stepped drill bit had gotten me a long way, but the precision was a bit lacking. And the knobs were standardized ebay items. Not quite good for realism.

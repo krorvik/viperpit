@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Prototype
+next: devops
+previous: intro
 ---
 
 <a href="/viperpit/images/simple_proto.jpg" border="0"><img align="right" width="320" src="/viperpit/images/simple_proto.jpg" alt="First center console" /></a>
