@@ -35,7 +35,7 @@ I designed a generic PCB that holds rows of 2.54mm headers to make it easy to ho
 
 # Backlighting
 
-For backlighting, I am not yet there. I am planning to use SMD/LED strips, that are modular. Failing that, LEDs, but that's a lot more work.
+For backlighting, I am not yet there. I am planning to use SMD/LED strips, that are modular. Failing that, singular LEDs, but that's a lot more work.
 
 Ideally, only two pins are needed for this.
 
