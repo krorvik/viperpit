@@ -27,6 +27,8 @@ These boards assume:
 * 3.5; Pins 0-53 are used for digital inputs
 * 3.2: Pins A0-A5 are used for analog potmeters
 
+You may also set a number of encoders for each teensy, these will use pins 0 - 2 x encoder_count
+
 In addition, the sketch allows for selecting which digital pins should NOT emit a second button for rotary switches, and which are the two pins of a SPDT button - and should emit *tree* buttons. Note that three-position rotary buttons may be connected with two pins (center unconnected), and programmed as a SPDT, The comments explain this in detail.
 
 TODO: Download gerber files or eagle files
