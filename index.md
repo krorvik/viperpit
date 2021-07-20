@@ -1,5 +1,6 @@
 ---
 layout: post
+next: intro
 ---
 <a href="/viperpit/images/status.jpg" border="0"><img align="right" width="320" src="/viperpit/images/status.jpg" alt="Current setup" /></a>
 
