@@ -17,11 +17,17 @@ I also stumbled upon the [PJRC Teensy](https://www.pjrc.com/teensy/), a series o
 
 An advantage of the Teensy/DirectX route is that you do not need to match up inputs vs particular controls. You do however need to map the switches in DCS. With DCS Bios, each input must correlate to a specific input in DCS; and so is closely tied to hardware and cabling. Also note that the Teensy way means the pit can be arbitrarily mapped to other planes. MIght feel a bit strange, but I do like to dabble in a bit of civilian activities once in a while... ;)
 
-# Choosing the Teensy for inputs
+# Choosing controller and hardware
 
 <a href="/viperpit/images/breakout.jpg" border="0"><img align="right" width="320" src="/viperpit/images/breakout.jpg" alt="First center console" /></a>
 
 At this time, I was only gunning for input controllers, and the flexible Teensy DirectX joystick library with support for 128 buttons, and many axes, made it easy to go for a first attempt. I started out with teensy 3.2 and 3.5 controllers, hooked up to a first version of a breakout board. The 3.5 has more inputs than the 3.2, and is used particularly on the busyer left console.
+
+For the switches, an assortment of cheap chinese switches were ordered from ebay, mostly SPST, SPDT, momentary and latching. A couple are latching one way, and momentary the other. Some push buttons and potmeters in the 20k linear range were also ordered.
+
+For the wiring, 2.54mm headers and dupont wires were ordered, as well as some prototype PCBs.
+
+The breakout bords for the Teensys were ordered off [JLCPCB](https://jlcpcb.com/).
 
 # Matrix switching - no go
 
@@ -35,7 +41,7 @@ Unfortunately, there is no good way around the ghosting problems posed by this s
 
 The first attempt at the center console did not have enough space for both MFDS, and some sort of ICP controller, as well as fuel switches and instrument dials. A second variant was quickly hacked together, this time with room for more inputs.
 
-At this time, a teensy 3.5 was programmed with some digital switch inputs, and a few encoders and analog inputs (potentiometers) for the necessary switches. In addition, a small USB keyboard was hooked up as an ICP. This actually worked quite well!
+At this time, a teensy 3.5 was programmed with some digital switch inputs, and a few encoders and analog inputs (potentiometers) for the necessary switches. In addition, a small USB keyboard was hooked up as an ICP. All hardware was soldered up to pin headers via simple prototype PCB boards, and interfaced to the teensys on the breakout boards with dupont cable. 
 
 # Left, right and aux consoles
 
