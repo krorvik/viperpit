@@ -71,4 +71,7 @@ TODO: Download STLs
 
 The rail prints in two parts, front and rear, and attaches to the throttle mount on each side. The front and rear parts have couplers that make a strong attachment.
 
+The rail for the throttle has known angles of travel, and matches the actual F-16 throtte angles for detents and such. 
+
 TODO: Download STLs
+TODO: Rail image
