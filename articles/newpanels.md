@@ -28,6 +28,11 @@ TODO: Download link for all the SVG files
 
 The F-16 panels use a font called [MS33558](https://www.wfonts.com/font/ms-33558) for the most part, which I used for the engraving. One important note here: Before engraving, it is a good idea to convert all shapes to paths. This way, you are not dependent on fonts installation on all computers. It's easy to go wrong otherwise.
 
+# Hooking up connectors
+<a href="/viperpit/images/instr_wiring.jpg" border="0"><img align="right" width="320" height="246" src="/viperpit/images/instr_wiring.jpg" alt="Hookup for engine instruments" /></a>
+
+I designed a generic PCB that holds rows of 2.54mm headers to make it easy to hook the panels up to the controllers. This is mounted on a 3D-printed bracket on the rear of the panel. Each switch is soldered to this PCB. This is a time consuming task, but well worth it when changes are needed later.
+
 # Backlighting
 
 For backlighting, I am not yet there. I am planning to use SMD/LED strips, that are modular. Failing that, LEDs, but that's a lot more work.
