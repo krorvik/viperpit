@@ -14,7 +14,6 @@ At the moment, work is still in progress, but I'm keeping this page updated ever
 * [Tools matter](./articles/tools.html)
 * [Starting over](./articles/newpanels.html)
 * [Building the pit](l/articles/pit.html)
-<!--
 * [Seat](./articles/seat.html)
 * [Commercial hardware](./articles/commercial.html)
 * [Teensy inputs](./articles/inputs.html)
@@ -23,4 +22,3 @@ At the moment, work is still in progress, but I'm keeping this page updated ever
 * [Computer and displays](./articles/computer.html)
 * [Setting up DCS](./articles/dcs.html)
 * [Test flight](./articles/testflight.html)
--->
