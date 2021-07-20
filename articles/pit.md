@@ -5,15 +5,13 @@ previous: newpanels
 next: seat
 ---
 
-<a href="/viperpit/images/full_frames.jpg" border="0"><img align="right" width="320" src="/viperpit/images/full_frames.jpg" alt="Pit builds in progress" /></a>
+Construction is done using 23x48mm wood cut using a precise table saw. I'd advise against manual cuts.
+
+TODO: DXF files are available showing the design of all the base frames.
 
 # Base frames
 
- Construction is done using 23x48mm wood cut using a precise table saw. I'd advise against manual cuts.
-
- TODO: DXF files are available showing the design of all the base frames.
-
- The panels do not go directly to these frames, instead the base frames are sized to fit separate panel mounting frames for each console. There are five base frames:
+The panels do not go directly to these frames, instead the base frames are sized to fit separate panel mounting frames for each console. There are five base frames:
 
 * Right console - front and back in one part
 * Right auxiliary console
@@ -67,4 +65,6 @@ The auxiliary consoles are a 4mm plywood panel that is supported by 3D-printed s
 
 # Screen mount
 
-In front of the center console, a more solid frame built from 48x98mm wood is placed to support a large TV screen
+In front of the center console, a more
+
+<a href="/viperpit/images/full_frames.jpg" border="0"><img align="right" width="320" src="/viperpit/images/full_frames.jpg" alt="Pit builds in progress" /></a> solid frame built from 48x98mm wood is placed to support a large TV screen
