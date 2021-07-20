@@ -27,6 +27,8 @@ Hehe. I found a TQS with an F-22 stick on a local web second hand market, so I p
 
 # Design the rest
 
+<a href="/viperpit/images/throttle_mount.jpg" border="0"><img align="right" width="320" src="/viperpit/images/throttle_mount.jpg" alt="Throttle mount, no rail" /></a>
+
 I used tinkercad, a really nice online 3D-designer, to construct several parts:
 
 * A handle that accepts a potentiometer in the rotational center, that bends inwards at about the right curve
@@ -54,6 +56,8 @@ The second part is the adapter for the grip base, and attaches to the grip end, 
 TODO: Download STLs
 
 # Grip
+
+<a href="/viperpit/images/grip.jpg" border="0"><img align="right" width="320" src="/viperpit/images/grip.jpg" alt="Disassembled grip" /></a>
 
 The main grip is from the TQS, and attaches to the grip base via an adapter that fits the "nut slots" in the grip.
 
