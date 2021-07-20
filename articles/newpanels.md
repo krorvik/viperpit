@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Starting over
+previous: tools
+next: pit
 ---
 <a href="/viperpit/images/panels_diff_stages.jpg" border="0"><img align="right" width="320" src="/viperpit/images/panels_diff_stages.jpg" alt="Cockpit panels in progress" /></a>
 
