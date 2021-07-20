@@ -17,6 +17,16 @@ layout: default
 
 {{content}}
 
+<p align="center">
+  {% if page.previous %}
+  <a href="/viperpit/articles/{{ page.previous }}.html">{{ page.previous }} < </a>
+  {% endif %}
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/viperpit"> Home </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  {% if page.next %}
+  <a href="/viperpit/articles/{{ page.next }}.html"> > {{ page.next }}</a>
+  {% endif %}
+</p>
+
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
