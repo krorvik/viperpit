@@ -41,7 +41,7 @@ Unfortunately, there is no good way around the ghosting problems posed by this s
 
 The first attempt at the center console did not have enough space for both MFDS, and some sort of ICP controller, as well as fuel switches and instrument dials. A second variant was quickly hacked together, this time with room for more inputs.
 
-At this time, a teensy 3.5 was programmed with some digital switch inputs, and a few encoders and analog inputs (potentiometers) for the necessary switches. In addition, a small USB keyboard was hooked up as an ICP. All hardware was soldered up to pin headers via simple prototype PCB boards, and interfaced to the teensys on the breakout boards with dupont cable. 
+At this time, a teensy 3.5 was programmed with some digital switch inputs, and a few encoders and analog inputs (potentiometers) for the necessary switches. In addition, a small USB keyboard was hooked up as an ICP. All hardware was soldered up to pin headers via simple prototype PCB boards, and interfaced to the teensys on the breakout boards with dupont cable.
 
 # Left, right and aux consoles
 
@@ -60,7 +60,11 @@ I decided to hack up the X55 throttle, and used the mechanism itself together wi
 
 # Throttle solution no 2
 
-I spent some time looking for a good way to replicate the throttle handle. I ended up getting a 3D-printed shell of it from Shapeways. Filled with resin, and then with hardware added - it made a good first attempt at a real throttle grip.
+I spent some time looking for a good way to replicate the throttle handle. I ended up getting a 3D-printed shell of it from [Shapeways](https://www.shapeways.com/shops/f16). Filled with resin, and then with hardware added - it made a good first attempt at a real throttle grip.
+
+Unfortunately, the X55 throttle had to die so I could use the switches in it...
+
+In this design, the throttle rail was a simple arc cut in acrylic glass, and strengthened with resin. There was no idle cutoff. I did howevere create an afterburner detent. The controlling teensy had a custom curve for this purpose, and some tweaking was performed in DCS to have it enter AB in the right place.
 
 # New stick
 

@@ -9,7 +9,9 @@ title: Moving forward
 * Cable spaghetti - a lot of dupont wiring and USB cables.
 * Moving sidestick
 * Center console not quite well shaped
-* No instruments or lights (outputs) - only inputs
+* No instruments or lights (outputs) - only inputs - still need to see rendered pit for info
 * Not really a good representation of panels (only crude positioning)
 * Joystick where right aux panel should be
-* Throttle a bit lacking
+* Throttle still a bit lacking, and not quite precise
+
+This, of course, is a perfect reason to spend another year at the workbench.
