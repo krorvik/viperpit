@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p align="right">{% if page.previous %}<a href="./articles/{{ page.previous }}.html"><< prev</a>{% endif %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/viperpit">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% if page.next %}<a href="./articles/{{ page.next }}.html">next >></a>{% endif %}</p>
+<p align="right">{% if page.previous %}<a href="/viperpit/articles/{{ page.previous }}.html"><< prev</a>{% endif %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/viperpit">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% if page.next %}<a href="/viperpit/articles/{{ page.next }}.html">next >></a>{% endif %}</p>
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <h1>{{ page.title }}</h1>
 
