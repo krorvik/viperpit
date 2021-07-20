@@ -30,6 +30,8 @@ The frames for the panels establish the upwards angle of the front part of the c
 
 The following panel frames are used:
 
+<a href="/viperpit/images/throttle_mount.jpg" border="0"><img width="320" align="right" src="/viperpit/images/throttle_mount.jpg" alt="Panel mount frames" /></a>
+
 * Right rearmost console - avi power, antenna/icing
 * Right rear console - Oxygen, KY58
 * Right front - Sensor power, hud, int lights and aircond
@@ -39,8 +41,6 @@ The following panel frames are used:
 * Left rear 1 - fuel, iff, ext lights
 * Left rear 2 - flcs, trim
 * Left rearmost - test
-
-<a href="/viperpit/images/throttle_mount.jpg" border="0"><img width="320" align="right" src="/viperpit/images/throttle_mount.jpg" alt="Panel mount frames" /></a>
 
 # Floor
 
