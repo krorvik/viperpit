@@ -56,7 +56,7 @@ TODO: DXF download
 
 <a href="/viperpit/images/frame_full_screen.jpg" border="0"><img width="320" align="right" src="/viperpit/images/frame_full_screen.jpg" alt="Side view" /></a>
 
-First, I attached all the left consoles and all the right consoles together, so that the inner wall is flush. I then attached the floor section to the sides so that the floorslope starts where the side consoles meets the auxiliary consoles (see top image).
+First, I attached all the left consoles and all the right consoles together, so that the inner wall is flush. I then attached the floor section to the sides so that the floorslope starts where the side consoles meets the auxiliary consoles.
 
 Next, the floor got a 16mm plywood covering, followed by 4mm birch plywood in the floor and inner sides of the pit.
 
