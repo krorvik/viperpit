@@ -19,9 +19,10 @@ next: seat
 * Left front part of main console, with room for separate throttle mount on outer side
 * Left aft part of main console, a little wider
 
+<a href="/viperpit/images/right_console_frame.jpg" border="0"><img align="right" width="320" src="/viperpit/images/right_console_frame.jpg" alt="Pit builds in progress" /></a>
+
 For the left and right main consoles, the frame is angled 7 degress towards the seat. The right one is a bit shorter than the right ones - I opted not to make room for the DLT/stowage part.
 
-<a href="/viperpit/images/right_console_frame.jpg" border="0"><img align="right" width="320" src="/viperpit/images/right_console_frame.jpg" alt="Pit builds in progress" /></a>
 
 # Panel frames
 
