@@ -9,3 +9,4 @@ At the moment, work is still in progress, but I'm keeping this page updated ever
 
 * [Introduction](./articles/intro.html)
 * [A prototype](./articles/prototype.html)
+* [Moving forward](./articles/devops.md)
