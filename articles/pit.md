@@ -1,6 +1,6 @@
 ---
 layout: post
-previous: pit
+previous: newpanels
 next: seat
 ---
 
