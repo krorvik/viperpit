@@ -16,7 +16,8 @@ There are a few places where I resorted to off-the-shelf hardware, due to comple
 The ICP and MFD installations are covered in the [pit construction page](/viperpit/articles/pit.html). The rudder is simply bolted on at the end of the floor. All use USB connections.
 
 # Mounting the base and stick
-<a href="/viperpit/images/stick_mount.jpg" border="0"><img align="right" width="320" src="/viperpit/images/fullstick_mount_frames.jpg" alt="Stick mount" /></a>
+<a href="/viperpit/images/stick_mount.jpg" border="0"><img align="right" width="320" src="/viperpit/images/stick_mount.jpg" alt="Stick mount" /></a>
+
 The base and stick are mounted at the front left of the right main console. A 3d-printed base extender gives it a good height. Note that the image is old, an additional extender is mounted between the printed base and the FSSB R3 in the image now, for better ergonomics.
 
 TODO: Download STL files
