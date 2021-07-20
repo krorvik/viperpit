@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction
+next: prototype
 ---
 
 <a href="/viperpit/images/starfighter.jpg" border="0"><img align="right" width="320" src="/viperpit/images/starfighter.jpg" alt="DCS rendition of RNoAF viper" /></a>
