@@ -37,6 +37,10 @@ I designed a generic PCB that holds rows of 2.54mm headers to make it easy to ho
 
 For backlighting, I am not yet there. I am planning to use SMD/LED strips, that are modular. Failing that, LEDs, but that's a lot more work.
 
+Ideally, only two pins are needed for this.
+
+For backlighting, there is a DCS BIOS output that will be used to control a PWM board so we can actually adjust it. This output will of course be controlled via a pot and a teensy input.
+
 # Finished panels
 
 <a href="/viperpit/images/panels_ready.jpg" border="0"><img width="320" src="/viperpit/images/panels_ready.jpg" alt="Cockpit panels mounted" /></a>
