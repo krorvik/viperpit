@@ -66,6 +66,6 @@ The auxiliary consoles are a 4mm plywood panel that is supported by 3D-printed s
 
 # Screen mount
 
-In front of the center console, a more
+In front of the center console, a more solid frame built from 48x98mm wood is placed to support a large TV screen.
 
-<a href="/viperpit/images/full_frames.jpg" border="0"><img align="right" width="320" src="/viperpit/images/full_frames.jpg" alt="Pit builds in progress" /></a> solid frame built from 48x98mm wood is placed to support a large TV screen
+<a href="/viperpit/images/full_frames.jpg" border="0"><img align="right" width="320" src="/viperpit/images/full_frames.jpg" alt="Pit builds in progress" /></a>
