@@ -19,3 +19,5 @@ At the moment, work is still in progress, but I'm keeping this page updated ever
 * [Throttle](./articles/throttle.html)
 * [Arduino outputs](./articles/outputs.html)
 * [Computer and displays](./articles/computer.html)
+* [Setting up DCS](./articles/dcs.html)
+* [Test flight](./articles/testflight.html)

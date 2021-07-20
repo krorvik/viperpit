@@ -2,11 +2,11 @@
 layout: post
 title: Improving tooling
 ---
-<a href="/viperpit/images/3d_print.jpg" border="0"><img align="right" width="320" src="/viperpit/images/3d_print.jpg" alt="Printing a console part" /></a>
 
 For any engineer, tooling matters. A lot. My Dremel, miniature circular saw and a stepped drill bit had gotten me a long way,   the precision was a bit lacking. And the knobs were standardized ebay items. Not quite good for realism.
 
 # Laser cutting acrylics
+<a href="/viperpit/images/k40.jpg" border="0"><img align="right" width="320" src="/viperpit/images/k40.jpg" alt="K40 laser cutter" /></a>
 
 Late fall 2020, I gained access to a 40W CO2 laser cutter with a sufficient cutting area to cut parts around 30x20cm. This is also a very good tool for engraving, and with a little bit of clever work, you can cut and engrave panels from acrylic glass that look really good. More on that later.
 
@@ -19,6 +19,8 @@ The laser cutter I use is one with an analog amperemeter for power, which makes 
 I used [k40whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html) for all laser work. There are also a lot of videos on Youtube for laser cutting. Do spend some time on the safety related ones.
 
 # 3D-printing
+
+<a href="/viperpit/images/3d_print.jpg" border="0"><img align="right" width="320" src="/viperpit/images/3d_print.jpg" alt="Printing a console part" /></a>
 
 For christmas in 2020, my wife gave me an [Ender 3](https://www.creality3dofficial.com/products/official-creality-ender-3-3d-printer) 3d-printer. This is perfect for making the knobs needed. I have an airbrush and compressor for modelling already, and with these the knobs can be painted in the right colors with ease.
 
