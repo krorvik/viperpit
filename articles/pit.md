@@ -31,8 +31,6 @@ The frames for the panels establish the upwards angle of the front part of the c
 
 The following panel frames are used:
 
-<a href="/viperpit/images/throttle_mount.jpg" border="0"><img width="320" align="right" src="/viperpit/images/throttle_mount.jpg" alt="Panel mount frames" /></a>
-
 * Right rearmost console - avi power, antenna/icing
 * Right rear console - Oxygen, KY58
 * Right front - Sensor power, hud, int lights and aircond
@@ -42,6 +40,8 @@ The following panel frames are used:
 * Left rear 1 - fuel, iff, ext lights
 * Left rear 2 - flcs, trim
 * Left rearmost - test
+
+<a href="/viperpit/images/throttle_mount.jpg" border="0"><img width="320" align="right" src="/viperpit/images/throttle_mount.jpg" alt="Panel mount frames" /></a>
 
 TODO: Make STL files available for DL
 
@@ -61,7 +61,7 @@ Next, the floor got a 16mm plywood covering, followed by 4mm birch plywood in th
 
 # Auxiliary consoles panel
 
-The auxiliary consoles are a 4mm plywood panel that is supported by 3D-printed supports, and 10x20mm dowels along the edges. They are finished with another plywood panel that runs towards the back of the pit on top.
+The auxiliary consoles are a 4mm plywood panel that is supported by 3D-printed supports, and 10x20mm dowels along the edges. They are finished with another plywood panel that runs towards the back of the pit on top. See second image.
 
 # Screen mount
 
