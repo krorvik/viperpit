@@ -2,6 +2,7 @@
 layout: post
 title: Improving tooling
 ---
+<a href="/viperpit/images/3d_print.jpg" border="0"><img align="right" width="320" src="/viperpit/images/3d_print.jpg" alt="Printing a console part" /></a>
 
 For any engineer, tooling matters. A lot. My Dremel, miniature circular saw and a stepped drill bit had gotten me a long way,   the precision was a bit lacking. And the knobs were standardized ebay items. Not quite good for realism.
 
