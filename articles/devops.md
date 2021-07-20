@@ -1,3 +1,8 @@
+---
+layout: post
+title: Moving forward
+---
+<a href="/viperpit/images/early_spaghetti2.jpg" border="0"><img align="right" width="320" src="/viperpit/images/early_spaghetti2.jpg" alt="Room for improvement" /></a>
 
 [DevOps](https://en.wikipedia.org/wiki/DevOps) in computer science is the art of developing software with continuous improvement, and making small, controlled changes as you go. It is in my nature to keep going. At this point, a few weaknesses were apparent:
 
