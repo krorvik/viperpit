@@ -62,10 +62,8 @@ Next, the floor got a 16mm plywood covering, followed by 4mm birch plywood in th
 
 # Auxiliary consoles panel
 
-The auxiliary consoles are a 4mm plywood panel that is supported by 3D-printed supports, and 10x20mm dowels along the edges. They are finished with another plywood panel that runs towards the back of the pit on top. See second image.
+<a href="/viperpit/images/full_frames.jpg" border="0"><img align="right" width="320" src="/viperpit/images/full_frames.jpg" alt="Pit builds in progress" /></a>
 
-# Screen mount
+The auxiliary consoles are a 4mm plywood panel that is supported by 3D-printed supports, and 10x20mm dowels along the edges. They are finished with another plywood panel that runs towards the back of the pit on top.
 
 In front of the center console, a more solid frame built from 48x98mm wood is placed to support a large TV screen.
-
-<a href="/viperpit/images/full_frames.jpg" border="0"><img align="right" width="320" src="/viperpit/images/full_frames.jpg" alt="Pit builds in progress" /></a>
