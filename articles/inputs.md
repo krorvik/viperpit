@@ -7,6 +7,8 @@ previous: commercial
 
 <a href="/viperpit/images/breakout.jpg" border="0"><img align="right" width="320" src="/viperpit/images/breakout.jpg" alt="Teensy boards, early version" /></a>
 
+NOTE: This page needs more work, as it is written without access to the sketch files. It will be expanded!
+
 All the DIY input controllers are based on a Teensy controller. Inputs are used as follows:
 
 * 2 digital inputs per encoder
@@ -16,7 +18,7 @@ All the DIY input controllers are based on a Teensy controller. Inputs are used 
 
 # Breakout board and pin use
 
-I designed an easy breakout board for the 3.2 and 3.5, that you can download and use freely.
+I designed an easy breakout board for the 3.2 and 3.5, that you can download and use freely. Note that the matrix boards to the left were rejected due to ghosting issues. They would only really be useful for momentary functions.
 
 These boards assume:
 
@@ -39,4 +41,4 @@ We are using the teensy as a USB joystick, so we have to program each device wit
 
 # The sketch
 
-The basic sketch is the same for all devices. 
+The basic sketch is the same for all devices.
