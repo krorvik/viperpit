@@ -10,6 +10,8 @@ Late fall 2020, I gained access to a 40W  laser cutter with a sufficient cutting
 
 Laser cutting is a complex subject all by itself, and comes with a fair bit of surrounding stuff (ventilation, watercooling, air assist) but with a little bit of practice, some nice panels came out. I recommend taking a look at [k40.se](https://k40.se/) for more information. If you plan on getting one, have some space available - there's more than the machine itself.
 
+And a stern warning: *ONLY CUT SAFE MATERIALS WITH LASER* - other plastic materials might ruin both your health and the laser cutter if you try jamming laser through it. See https://lasergods.com/co2-laser-engraver-safety/ for more information. 
+
 For christmas in 2020, my wife gave me an [Ender 3](https://www.creality3dofficial.com/products/official-creality-ender-3-3d-printer) 3d-printer. This is perfect for making the knobs needed. I have an airbrush and compressor for modelling already, and with these the knobs can be painted in the right colors with ease.
 
 The 3d-printer, even with a relatively small print volume (23.5 x 23.5 x 25cm), can also help print other parts for the cockpit. In fact, I used it to print much of the center console broken down into small enough sections.
