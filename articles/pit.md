@@ -21,7 +21,7 @@ next: seat
 
 For the left and right main consoles, the frame is angled 7 degress towards the seat. The right one is a bit shorter than the right ones - I opted not to make room for the DLT/stowage part.
 
-<a href="/viperpit/images/right_console_frame.jpg" align="right" border="0"><img width="320" src="/viperpit/images/right_console_frame.jpg" alt="Pit builds in progress" /></a>
+<a href="/viperpit/images/right_console_frame.jpg" border="0"><img align="right" width="320" src="/viperpit/images/right_console_frame.jpg" alt="Pit builds in progress" /></a>
 
 # Panel frames
 
